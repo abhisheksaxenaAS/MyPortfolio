@@ -1,0 +1,12 @@
+[
+  {
+    "title": "My Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the react by building an portfolio app.",
+    "skills": ["React", "Node"],
+    "demo": null,
+    "source": "https://github.com/abhisheksaxenaAS/Portfolio.git"
+  }
+  
+ 
+]

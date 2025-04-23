@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Front End Developer",
+    "organisation": "Appz Global Tech",
+    "startDate": "Sep,2024",
+    "endDate": "Present",
+    "experiences": ["Developed high-performance webpages using React,optimizing for speed and responsiveness."],
+    "imageSrc": "none"
+  },
+  {
+    "role": "AI/ML Trainee",
+    "organisation": "Global Infoventures Pvt. Ltd.",
+    "startDate": "Dec,2023",
+    "endDate": "May,2024",
+    "experiences": ["Collaborated with teams to integrate AI/ML models into applications, supporting end-to-end machine learning workflows."],
+    "imageSrc": "history/GI.png"
+  }
+  
+]
+
